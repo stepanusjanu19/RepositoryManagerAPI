@@ -1,0 +1,12 @@
+/Users/mac/Documents/project/c#/RepositoryManagerSolution/RepositoryManagerLib/bin/Debug/net8.0/RepositoryManagerLib.deps.json
+/Users/mac/Documents/project/c#/RepositoryManagerSolution/RepositoryManagerLib/bin/Debug/net8.0/RepositoryManagerLib.dll
+/Users/mac/Documents/project/c#/RepositoryManagerSolution/RepositoryManagerLib/bin/Debug/net8.0/RepositoryManagerLib.pdb
+/Users/mac/Documents/project/c#/RepositoryManagerSolution/RepositoryManagerLib/obj/Debug/net8.0/RepositoryManagerLib.csproj.AssemblyReference.cache
+/Users/mac/Documents/project/c#/RepositoryManagerSolution/RepositoryManagerLib/obj/Debug/net8.0/RepositoryManagerLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/project/c#/RepositoryManagerSolution/RepositoryManagerLib/obj/Debug/net8.0/RepositoryManagerLib.AssemblyInfoInputs.cache
+/Users/mac/Documents/project/c#/RepositoryManagerSolution/RepositoryManagerLib/obj/Debug/net8.0/RepositoryManagerLib.AssemblyInfo.cs
+/Users/mac/Documents/project/c#/RepositoryManagerSolution/RepositoryManagerLib/obj/Debug/net8.0/RepositoryManagerLib.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/project/c#/RepositoryManagerSolution/RepositoryManagerLib/obj/Debug/net8.0/RepositoryManagerLib.dll
+/Users/mac/Documents/project/c#/RepositoryManagerSolution/RepositoryManagerLib/obj/Debug/net8.0/refint/RepositoryManagerLib.dll
+/Users/mac/Documents/project/c#/RepositoryManagerSolution/RepositoryManagerLib/obj/Debug/net8.0/RepositoryManagerLib.pdb
+/Users/mac/Documents/project/c#/RepositoryManagerSolution/RepositoryManagerLib/obj/Debug/net8.0/ref/RepositoryManagerLib.dll
